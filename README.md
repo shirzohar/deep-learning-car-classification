@@ -78,6 +78,3 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 License
-This project is for educational purposes and follows the MIT License.
-
