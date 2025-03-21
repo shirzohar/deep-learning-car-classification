@@ -1,0 +1,28 @@
+# Deep Learning Frameworks
+tensorflow
+keras
+
+# Data Handling & Processing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Feature Engineering
+scikit-learn
+
+# Image Processing
+opencv-python
+Pillow
+
+
+# Nearest Neighbor Search faiss-cpu 
+ # או faiss-gpu 
+
+
+# Utility Libraries
+tqdm
+jupyter
